@@ -120,8 +120,7 @@ export default class Dots extends Component {
       height,
       marginHorizontal,
       backgroundColor: isActive ? activeColor : passiveColor,
-      borderRadius: width,
-      marginTop,
+    
     };
 
     // active Border Styles.
